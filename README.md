@@ -3,7 +3,7 @@
 Para poner a andar el entorno clonar este repositorio
 
 <code>
-git clone ....
+git clone https://github.com/apdaza/postgresql-pgadmin4.git
 </code>
 
 Ejecutar el docker-compose
@@ -11,3 +11,7 @@ Ejecutar el docker-compose
 <code>
 docker-compose up -d
 </code>
+
+En el navegador vamos a http://localhost:16543
+
+![login-pgadmin4](imagenes/login-pgadmin4.png)
