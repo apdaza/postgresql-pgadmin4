@@ -1,1 +1,3 @@
-postgresql
+/postgresql/
+/postgresql-data/
+/pgadmin/
